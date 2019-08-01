@@ -1,4 +1,4 @@
 # jadbtool
 Java Adb Tool
 
-screenshot/connections.png
+![alt text](https://raw.githubusercontent.com/ysfgrl/jadbtool/screenshot/connections.png
