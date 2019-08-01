@@ -1,0 +1,1 @@
+{"adb":{"path":"C:\\Users\\yusuf\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe"},"commands":[{"name":"name","command":"shell pm list packages"},{"name":"name","command":"shell pm list packages -3"},{"name":"name","command":"reboot"}]}
