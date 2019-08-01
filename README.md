@@ -1,4 +1,4 @@
 # jadbtool
 Java Adb Tool
 
-![alt text](https://raw.githubusercontent.com/ysfgrl/jadbtool/screenshot/connections.png
+![Alt text](screenshot/connections.png?raw=true "Title")
